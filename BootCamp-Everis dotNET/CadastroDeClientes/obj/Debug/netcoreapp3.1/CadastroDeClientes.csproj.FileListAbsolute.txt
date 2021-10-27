@@ -1,0 +1,50 @@
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\CadastroDeClientes.exe
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\CadastroDeClientes.deps.json
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\CadastroDeClientes.runtimeconfig.json
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\CadastroDeClientes.runtimeconfig.dev.json
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\CadastroDeClientes.dll
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\CadastroDeClientes.pdb
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.csproj.AssemblyReference.cache
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.Form1.resources
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.csproj.GenerateResource.cache
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.AssemblyInfoInputs.cache
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.AssemblyInfo.cs
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.dll
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.pdb
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.genruntimeconfig.cache
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\BarcodeStandard.dll
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\paulo.santos-ext\Documents\Projetos\CadastroDeClientes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\CadastroDeClientes.exe
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\CadastroDeClientes.deps.json
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\CadastroDeClientes.runtimeconfig.json
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\CadastroDeClientes.runtimeconfig.dev.json
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\CadastroDeClientes.dll
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\CadastroDeClientes.pdb
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\BarcodeStandard.dll
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.csproj.AssemblyReference.cache
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.Form1.resources
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.csproj.GenerateResource.cache
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.AssemblyInfoInputs.cache
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.AssemblyInfo.cs
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.dll
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.pdb
+C:\Users\paulo.santos-ext\Documents\Digital Inovattion One\Desafio Git-Github\dio-desafio-github\BootCamp-Everis dotNET\CadastroDeClientes\obj\Debug\netcoreapp3.1\CadastroDeClientes.genruntimeconfig.cache

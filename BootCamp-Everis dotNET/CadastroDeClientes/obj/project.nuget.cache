@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HBSMPSOPQJf91w6bp2uwt6tPMMpyXYiAyFhWcAjfKOzu4oPkJ7n+wJxqK3IFC+lztMtRCSwEZVNzOjYwlB4bJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulo.santos-ext\\Documents\\Digital Inovattion One\\Desafio Git-Github\\dio-desafio-github\\BootCamp-Everis dotNET\\CadastroDeClientes\\CadastroDeClientes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo.santos-ext\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\paulo.santos-ext\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\paulo.santos-ext\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\paulo.santos-ext\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\paulo.santos-ext\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\paulo.santos-ext\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\paulo.santos-ext\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
